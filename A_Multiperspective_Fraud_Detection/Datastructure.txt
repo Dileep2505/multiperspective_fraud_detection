@@ -1,0 +1,40 @@
+A Multi perspective Fraud Detection Method for Multi Participant Ecommerce Transactions
+
+Fraud detection; Electronic transaction; Petri net; Machine learning
+
+
+IEEE Transaction on Machine Learning,Issue Date:06.January.2023
+
+
+A Multi perspective Fraud Detection Method for Multi Participant Ecommerce Transactions,
+A_Multiperspective_Fraud_Detection
+
+
+a_multiperspective_fraud_detection
+
+
+fraud_detection
+
+
+Order_ID	
+PDate	
+Status	
+Fulfilment	
+Sales_Channel 	
+ship_service_level	
+Style	
+SKU	
+Category	
+PSize	
+ASIN	
+Qty	
+currency	
+Amount	
+payment_by	
+ship_city	
+ship_state	
+ship_postal_code	
+ship_country
+Prediction
+
+
